@@ -1,5 +1,7 @@
 # SQLAlchemy Homework - Surfs Up!
 
+* Diego Gonzalez - [@dlg410](https://github.com/dlg410)
+
 ### Before You Begin
 
 1. Create a new repository for this project called `sqlalchemy-challenge`. **Do not add this homework to an existing repository**.
@@ -155,4 +157,4 @@ Now that you have completed your initial analysis, design a Flask API based on t
 
 ### Copyright
 
-Trilogy Education Services © 2019. All Rights Reserved.
+<!-- Trilogy Education Services © 2019. All Rights Reserved. -->
